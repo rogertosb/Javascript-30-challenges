@@ -1,3 +1,2 @@
-# javascript30-challenges
-# Javascript-30-challenges
-# Javascript-30-challenges
+Challenge 1/30
+of https://javascript30.com/
